@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     font-family: 'Chilanka', cursive;
 }
@@ -36,3 +37,43 @@ nav navbar-nav #navbarmenu{
     text-align: center;
 }
 
+=======
+*{
+    font-family: 'Chilanka', cursive;
+}
+
+h1{
+    padding: 10px;
+    margin: 20 0 10 0;
+    text-align: center;
+}
+
+nav navbar-nav #navbarmenu{
+    align-content: center;
+    text-align: center;
+}
+
+.container-fluid #block{
+    height: auto;
+    width: 100%;
+    background-color: lightgray;
+}
+
+#nav{
+    color: black;
+    background-color:whitesmoke;
+}
+
+
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-nav{
+    color: black;
+}
+.nav>li>a {
+    text-align: center;
+}
+
+>>>>>>> 4f0028b48dc0f5851546658e11b3d3841a8cf921
